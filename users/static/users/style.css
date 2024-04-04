@@ -39,8 +39,8 @@ p {
     padding: 10px;
 }
 .logo img {
-    height: auto; /* Keep image aspect ratio */
-    width: auto; /* You can set a max-width here if needed */
+    height: 300px; /* Keep image aspect ratio */
+    width: 1450px; /* You can set a max-width here if needed */
 }
 .user-info {
     display: flex;
